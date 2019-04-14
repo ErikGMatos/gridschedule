@@ -1,0 +1,12 @@
+﻿Conflitos leves de Brazil.fet
+Gerado com FET 5.37.5 em 14/04/2019 11:03
+
+Número de restrições leves quebradas: 2
+Total de conflitos leves: 0
+
+Conflitos leves em ordem decrescente:
+
+Restrição de tempo "mínimo de dias entre as atividades" não atendida: atividade com id=169 (Prof:Andreia, Disc:Historia, T:111) conflita com a atividade com id=168 (Prof:Andreia, Disc:Historia, T:111), sendo 1 dia(s) muito próximo(s), nos dias Luni e Luni, incremento no fator de conflitos=0. As atividades estão colocadas consecutivamente na grade de horário, pois você escolheu essa opção no caso de as atividades estarem no mesmo dia
+Restrição de tempo "mínimo de dias entre as atividades" não atendida: atividade com id=332 (Prof:Osvaldo, Disc:Biologia, T:111) conflita com a atividade com id=330 (Prof:Osvaldo, Disc:Biologia, T:111), sendo 1 dia(s) muito próximo(s), nos dias Miercuri e Miercuri, incremento no fator de conflitos=0. As atividades estão colocadas consecutivamente na grade de horário, pois você escolheu essa opção no caso de as atividades estarem no mesmo dia
+
+Final do arquivo.
