@@ -1,0 +1,11 @@
+src/debug/*
+src/release/*
+*.Debug
+*.Release
+*.src-cl
+*.stash
+tmp/commandline/*
+tmp/gui/*
+fet-cl.exe
+fet.exe
+Makefile
